@@ -1,0 +1,8 @@
+﻿Trong Computer Vision (CV), cơ chế attention là quá trình lựa chọn một cách có chọn lọc thông qua việc đánh trọng số khác nhau cho features dựa trên độ quan trọng của input.
+Đại diện cho Channel Attention sẽ là SE Module từ Squeeze and Excitation Network (SENet).
+Trong CNN, mỗi channel trong feature maps sẽ đại diện cho một thông tin.
+Việc áp dụng Attention lên chiều channel tức là mỗi channel sẽ có một trọng số riêng, do đó sẽ ảnh hưởng khác nhau tới đầu ra thay vì có ảnh hưởng như nhau.
+Nhân kỷ niệm 80 năm ngày sinh của nữ thi sĩ Xuân Quỳnh (6/10/1942 - 6/10/2022), gia đình Xuân Quỳnh - Lưu Quang Vũ kết hợp ra mắt cuốn sách Trong đáy mắt trời xanh là vĩnh viễn với những trang nhật ký, ghi chép và bức thư chưa từng công bố của bà.
+Sách được biên soạn bởi Phó Giáo sư Lưu Khánh Thơ, em gái nhà viết kịch Lưu Quang Vũ - người bạn đời của nữ thi sĩ Xuân Quỳnh.
+Nhan đề Trong đáy mắt trời xanh là vĩnh viễn của cuốn sách là một câu thơ trong bài Có một thời như thế của Xuân Quỳnh, gợi nhớ đến những điều có giá trị và vĩnh viễn như những tác phẩm xuất  Quỳnh đã để lại cho nền văn học nước nhà.
+Tác phẩm gồm 285 trang, chia làm 3 phần: Nhật ký, Ghi chép và Thư từ.

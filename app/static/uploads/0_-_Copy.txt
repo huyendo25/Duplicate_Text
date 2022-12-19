@@ -1,0 +1,8 @@
+﻿Trong Frontend, có 1 thứ gọi là State dùng để thể hiện trạng thái của các thành phần trong app.
+Hiểu đơn giản là khi bạn gửi tin nhắn cho Crush thì tin nhắn đó sẽ có các trạng thái là đã gửi, đã nhận và đã xem (còn đã xem mà không trả lời là trạng thái mà bạn tự nhận ra được thì không phải là State sẽ được giải thích dưới đây).
+Các trạng thái trên là giá trị của state trong app, nó thể hiện ra để người dùng nhìn thấy.
+Tuy nhiên, cũng có những State được sinh ra để xử lý ngầm trong app mà không thể hiện ra UI.
+Ví dụ như khi bạn lướt Newsfeed Facebook, thực chất các nội dung sẽ được phân trang, mỗi lần bạn vuốt lên app sẽ tải nội dung của trang tiếp theo để hiển thị và số trang hiện tại chính là 1 State ngầm.
+Một chiếc app sẽ có rất nhiều State, đôi khi chúng hoạt động độc lập, hoặc phụ thuộc cũng như là ràng buộc lẫn nhau nên chúng ta phải quản lý nó.
+Đó chính là State Management.
+State Management chưa bao giờ là điều đơn giản, biết dùng State thì dễ, nhưng để tối ưu nó mới là điều khó.

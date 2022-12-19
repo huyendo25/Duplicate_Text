@@ -1,0 +1,54 @@
+﻿Trong Frontend, có 1 thứ gọi là State dùng để thể hiện trạng thái của các thành phần trong app.
+Hiểu đơn giản là khi bạn gửi tin nhắn cho Crush thì tin nhắn đó sẽ có các trạng thái là đã gửi, đã nhận và đã xem (còn đã xem mà không trả lời là trạng thái mà bạn tự nhận ra được thì không phải là State sẽ được giải thích dưới đây).
+Các trạng thái trên là giá trị của state trong app, nó thể hiện ra để người dùng nhìn thấy.
+Tuy nhiên, cũng có những State được sinh ra để xử lý ngầm trong app.
+Cuộc đời nhiều thăng trầm ít người biết của nhà văn Lê Lựu
+(Dân trí) - Nhà văn Lê Lựu đã khuất bóng, bỏ lại "Thời xa vắng", bỏ lại một đời khắc khổ như những trang văn ông từng viết, và bỏ lại... những niềm tiếc thương đau đáu.
+Nhà văn Lê Lựu (SN 12/12/1942) tại vùng quê nghèo Tân Châu, Hưng Yên trong một gia đình có 8 người con, nhưng năm anh chị em mất sớm.
+Lên 10 tuổi, ông đã sớm có ước mơ trở thành nhà báo, nhà văn.
+17 tuổi, ông nhập ngũ và được tôi luyện tài năng văn chương trong môi trường quân ngũ.
+Sinh thời, Lê Lựu trải qua hai nỗi khổ: cô đơn và bệnh tật.
+Đó là 10 năm trước khi mất, ông phải trải qua những tháng ngày "bữa thuốc nhiều hơn bữa cơm" với hơn 14 thứ bệnh: Tai biến mạch máu não, tiểu đường, bệnh tim, bệnh gout, phổi, tụy, thận, tiền liệt tuyến.
+Nhìn thân hình tiều tụy, lê tấm thân nặng nề đè lên chiếc nạng khiến ai trông thấy cũng không khỏi xót xa.
+Đó là một số phận cay đắng, bi thương của kiếp người cầm bút cả những khi ở trên đỉnh cao của sự sáng tạo.
+Ông có một người con với người vợ đầu, và hai con với người đàn bà thứ hai.
+Nhưng cuối đời, ông vẫn phải sống một mình đơn côi trong căn nhà nhỏ ở phố Tam Trinh, Hà Nội.
+Ông luôn kể về các con với tâm thức của một người cha già hoài niệm, về những ký ức đẹp và cả niềm đắng cay.
+Lê lựu từng sống một cuộc đời nhưng tồn tại bên trong là năm con người: người công dân bình thường; một nhà văn luôn đau đáu trăn trở, một "con bệnh", một kẻ bất hạnh và một người nổi tiếng.
+Chiều 9/11, ông ra đi kết thúc 16 năm chống chọi với bệnh tật.
+Trong gần 60 năm cầm bút, với hơn 40 đầu sách Lê Lựu đã để lại cho nền văn học Việt Nam một tài sản khổng lồ.
+Ông đã đóng góp cho nền văn chương nước nhà nhiều tác phẩm kinh điển - nói như nhà văn Nguyễn Quang Thiều - làm rung động đời sống văn học Việt Nam.
+Những tác phẩm với giá trị nghệ thuật lớn, có ảnh hưởng và sức lan tỏa của ông có thể kể đến như: Mở rừng, Đại tá không biết đùa, Chuyện làng Cuội... Đặc biệt, hai tác phẩm của ông được chuyển thể thành phim truyền hình và điện ảnh vô cùng thành công, được khán giả biết đến rộng rãi là Sóng ở đáy sông và Thời xa vắng.
+Nhân vật Giang Minh Sài trong tiểu thuyết Thời xa vắng đã đưa Lê Lựu trở thành tiểu thuyết gia hàng đầu của Việt Nam, sánh cùng với chị Dậu trong Tắt đèn của Ngô Tất Tố, anh Pha trong Bước đường cùng của Nguyễn Công Hoan, Xuân tóc đỏ trong Số đỏ của Vũ Trọng Phụng, lão Khúng trong Phiên chợ Giát của Nguyễn Minh Châu...
+Chia sẻ với PV Dân trí về sự ra đi của nhà văn Lê Lựu cũng như vai trò, sự ảnh hưởng của ông với nền văn chương Việt Nam, nhà nghiên cứu, nhà phê bình văn học Phạm Xuân Nguyên cho biết, Lê Lựu thuộc thế hệ nhà văn chống Mỹ.
+Ông sáng tác nhiều nhưng tác phẩm để đời chính là Thời xa vắng - cuốn tiểu  thuyết xuất sắc của ông và cũng là tác phẩm tiêu biểu cho thời kỳ văn học bắt đầu đổi mới.
+Theo ông Phạm Xuân Nguyên, Thời xa vắng được xuất bản năm 1986 - 1987 nhưng đã được nhà văn Lê Lựu nung nấu suy nghĩ từ trước đó, điều đó cho thấy nhận thức rất sớm của nhà văn Lê Lựu.
+Đó là cái lớn của nhà văn Lê Lựu.
+"Lê Lựu viết Thời xa vắng là muốn nói đến thời đã qua khi con người không được sống thật với mình, sống với những thứ ngoài mình.
+Trong tiểu thuyết Thời xa vắng, nhà văn Lê Lựu đã xây dựng nên hình tượng nhân vật Giang Minh Sài mang ít nhiều nét tự truyện của ông.
+Giang Minh Sài là nhân vật bi kịch khi nửa phần đời trước chạy theo thứ không phải của mình, nửa phần đời sau chạy theo điều mình không có.
+Một nhân vật con số 0, được nhào nặn theo ngoại cảnh bên ngoài, theo những áp đặt của người khác.
+Mỗi nhà văn chỉ cần có một tác phẩm, một nhân vật nổi bật ghi dấu ấn mình trong tâm trí bạn đọc.
+Lê Lựu đã có Thời xa vắng và đã có Giang Minh Sài", nhà nghiên cứu Phạm Xuân Nguyên nói.
+Trong ấn tượng của nhà nghiên cứu văn học Phạm Xuân Nguyên và nhiều nhà văn, nhà thơ, Lê Lựu là người có tác phong "chuẩn chất nông dân": giản dị, suồng sã và gần gũi.
+"Chính vì thế khi đọc văn ông, người ta mới giật mình.
+Bởi ẩn sau cái vẻ xuề xòa, mộc mạc tưởng như nông dân ấy là những suy nghĩ rất ngấm.
+Hay nói rộng hơn, nhà văn Lê Lựu đã nâng những suy ngẫm của người nông dân lên thành khái quát của đời sống, khái quát của văn chương mà Thời xa vắng đã thể hiện điều đó", ông Nguyên chia sẻ.
+Nhà văn Văn Công Hùng có những chia sẻ xúc động với Dân trí trước sự ra đi của nhà văn Lê Lựu.
+Theo ông, nhà văn Lê Lựu đã xuất hiện đúng thời điểm với tiểu thuyết Thời xa vắng.
+Với tài năng viết văn trời ban, cùng sự tích lũy vốn sống, những chiêm nghiệm về thời cuộc đã giúp ông vụt lên giữa dàn đồng ca văn chương thời ấy bằng một lừng lững Thời xa vắng.
+Nhà văn Văn Công Hùng kể, ông đã cắm cúi đọc cuốn tiểu thuyết Thời xa vắng trong 1 đêm và xong 1 lần, 1 tuần sau, sau khi sách đến với nhiều người, nhiều độc giả ông lại đọc lần 2.
+"Ông là một trong nhà văn đầu tiên đã chỉ ra bi kịch của đời sống của con người khi chúng ta phải sống một cuộc đời không phải của mình, sống hộ người khác, vì người khác...", nhà văn Văn Công Hùng nói.
+Trong mắt nhạc sĩ Nguyễn Vĩnh Tiến, nhà văn Lê Lựu là người rất mộc mạc, dễ gần và thích uống rượu.
+Anh kể với PV Dân trí về thời bản thân còn cộng tác với báo Văn nghệ Quân đội, anh may mắn được nhiều lần gặp nhà văn Lê Lựu và được trò chuyện cùng ông, được ông hướng dẫn về bút pháp văn chương, thủ pháp xây dựng nhân vật.
+Nhà văn Lê Lựu nói về những điều ấy bằng tất cả sự chân tình, hăng say và sôi nổi.
+Trước tin nhà văn Lê Lựu mất, nhạc sĩ Nguyễn Vĩnh Tiến đã sáng tác những vần thơ xúc động, đầy cảm xúc, chất chứa những tình cảm của một cây bút trẻ trước "cây đại thụ" của nền văn chương Việt Nam - nhà văn Lê Lựu:
+"Thời xa vắng, khuất bóng rồi
+Cành Lê trái Lựu rụng rời đường Thu
+Làng Văn, xóm Khổ sương mù
+Xác xơ những chuyến đò đưa phim trường
+Xác xơ cả những vở tuồng
+Anh hùng đứng khóc cuối đường mây bay
+Thôi ông cứ uống rượu say
+Mỗi xuân, mỗi giỗ, mỗi ngày nhớ ông!
+".

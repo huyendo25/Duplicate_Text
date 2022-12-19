@@ -1,0 +1,10 @@
+﻿Trong Frontend, có 1 thứ gọi là State dùng để thể hiện trạng thái của các thành phần trong app.
+Hiểu đơn giản là khi bạn gửi tin nhắn cho Crush thì tin nhắn đó sẽ có các trạng thái là đã gửi, đã nhận và đã xem (còn đã xem mà không trả lời là trạng thái mà bạn tự nhận ra được thì không phải là State sẽ được giải thích dưới đây).
+Hiểu đơn giản thì một chương trình đang thực thi được gọi là tiến trình, hay nói cách khác, tiến trình là một thực thể của chương trình đang chạy, thực thể này có thể được gán và thực thị bởi một trình xử lý.
+Hai phần tử cốt lõi của một tiến trình là code của chương trình và tập dữ liệu liên quan đến đoạn code đó.
+Một chương trình thực thi như một tiến trình được xác định duy nhất bởi các tham số khác nhau.
+Các tham số này được lưu trữ trong Process Control Block (PCB) cho mỗi tiến trình.
+Hệ điều hành thực thi nhiều hoạt động khác nhau trong khi tạo một tiến trình, khi sử dụng PCB để theo dõi trạng thái thực thi của từng tiến trình.
+Định thời tiến trình là rất quan trọng để chọn và loại bỏ tiến trình đang chạy dựa trên một chiến lược hoặc thuật toán cụ thể.
+Các mục tiêu chính của quá trình định thời tiến trình là giữ cho CPU luôn bận rộn và cung cấp thời gian phản hồi "có thể chấp nhận được" cho tất cả các chương trình.
+Hệ điều hành đa chương trình cho phép nhiều tiến trình được tải vào bộ nhớ thực thi tại một thời điểm và tiến trình được tải chia sẻ CPU bằng cách sử dụng ghép kênh thời gian.

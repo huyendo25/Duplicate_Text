@@ -1,0 +1,27 @@
+﻿Trong Frontend, có 1 thứ gọi là State dùng để thể hiện trạng thái của các thành phần trong app.
+Hiểu đơn giản là khi bạn gửi tin nhắn cho Crush thì tin nhắn đó sẽ có các trạng thái là đã gửi, đã nhận và đã xem (còn đã xem mà không trả lời là trạng thái mà bạn tự nhận ra được thì không.
+
+Khi lập trình dart và flutter chắc hẳn bạn đã gặp và sử dụng abstract class, interface(implements class) và mixin nhưng liệu bạn đã hiểu rõ sự khác nhau giữa chúng, hãy cùng mình đi so sánh để làm rõ điểm khác biệt nhé.
+
+Phương pháp phát triển phần mềm theo triết lý/mô hình Agile đang ngày càng trở nên phổ biến trên khắp thế giới.
+Các công ty, doanh nghiệp và nhóm dự án vì thế cũng cần một cách thức kiểm thử phần mềm mới mới để phù hợp với mô hình làm việc theo Agile - vốn được biết đến là 1 triết lý hay một khung tư duy để nhanh chóng thích ứng và phản hồi với thay đổi.
+Nhà thơ Nguyễn Thụy Kha ra mắt tiểu thuyết mới về người lính
+(Dân trí) - Nhà thơ Nguyễn Thụy Kha chia sẻ: "Tôi muốn mọi người biết thêm về những khốc liệt của chiến tranh để trân quý hơn ngày hôm nay".
+Trung tâm sách Quốc gia - Nhà xuất bản Chính trị quốc gia Sự thật cho biết, ngày 23/8, cuốn sách Hương - tác giả Nguyễn Thụy Kha đã chính thức được phát hành.
+Nhà thơ Nguyễn Thụy Kha chia sẻ: "Tôi muốn mọi người biết thêm về những khốc liệt của chiến tranh để trân quý hơn ngày hôm nay.
+Với Hương, tôi đã trộn lẫn bút pháp hư cấu và phi hư cấu, như chương 9 là không hư cấu chút nào, đó là những câu chuyện thật của bạn bè tôi ở chiến trường.
+Tôi mất khoảng 2 tháng thì xong, bố cục của tác phẩm tôi có từ lâu.
+Tôi và họa sĩ Lê Thiết Cương chơi với nhau khá lâu rồi nên anh Cương hiểu và vẽ bìa sách cho tôi.
+Anh Cương vẽ theo ý tưởng của mình mà tôi không phải can thiệp".
+"Tôi đặt tên tiểu thuyết là Hương vì nhân vật nữ trong truyện tên như vậy, đồng thời Hương cũng là sự ẩn dụ: Thành cổ Quảng Trị sẽ đọng lại hương mãi mãi, nén hương tưởng nhớ người nằm xuống, chiến đấu anh dũng cho Tổ quốc", nhà thơ Thụy Kha cho biết thêm.
+Cuốn sách đã tái hiện lại cuộc đời của một người lính tên Lĩnh, người giáo viên trẻ mới vào nghề đã xung phong vào chiến trường khốc liệt.
+Tại mảnh đất Quảng Trị mưa bom bão đạn, anh đã gặp được một mối tình khắc cốt ghi tâm với người con gái tên Hương.
+Vượt lên trên tất cả những đau thương, mất mát mà chiến tranh giáng xuống, tình yêu vẫn tỏa màu xanh sự sống.
+Nhưng tình yêu đầy chất thơ và lãng mạn của người lính trẻ nảy nở giữa những hoang tàn, đổ nát chiến tranh cũng nhuốm màu bi thương.
+Chiến tranh đã đẩy họ ra xa, làm cho họ không có cơ hội gặp lại, để đến tuổi xế chiều Lĩnh mới tìm ra Hương thì cô đã không còn trên cõi đời này.
+Nhưng cuộc đời vẫn ưu ái cho anh khi để anh gặp lại Bao - bác sĩ phía bên kia chiến tuyến, người đã từng cứu chữa, che chở cho anh trong những tháng ngày ở bệnh viện và người đã làm chồng của Hương, làm cha của con anh khi không tìm được tin tức gì của anh trong thời buổi loạn lạc của chiến tranh.
+Cuộc gặp gỡ của Lĩnh, Bao và Thơm - con gái Lĩnh chứa chan những giọt nước mắt, nước mắt của sự bất ngờ, của sự chia lìa, xa cách, của bi kịch tình yêu, của đau buồn dồn nén, và của tình thân, tình người.
+Sau tất cả, những người anh quen và đã từng chiến đấu ở hai bên chiến tuyến lại về mảnh đất Quảng Trị để tưởng nhớ quá khứ, cùng nhau suy ngẫm về cuộc đời, về những đau thương, mất mát của chiến tranh, về tình yêu, tình dân tộc để cùng nhau hướng tới tương lai.
+Thông qua những tài liệu, nhật ký và hồi ký của những người lính ở cả hai bên chiến tuyến, tác giả đã giúp người đọc hiểu hơn về những năm tháng đẫm máu và nước mắt của dân tộc, về tình yêu của những người lính, về lòng vị tha của con người, đất nước Việt Nam.
+Cuốn sách cũng như một nén hương tưởng niệm những anh hùng thầm lặng đã ra đi vì Tổ quốc thân yêu, những con người làm nên bản tráng ca của lịch sử.
+Với những dòng cảm xúc chảy tràn trên từng trang giấy, người đọc như được khóc cùng, buồn cùng, xúc động cùng nỗi niềm của người lính và của dân tộc ta một thời bom đạn, để từ đó, thấy yêu hơn cuộc sống hôm nay.
